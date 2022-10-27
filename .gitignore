@@ -1,0 +1,5 @@
+.extras/aws
+*gradle*
+bin/*
+target
+.idea/*
